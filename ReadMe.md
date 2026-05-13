@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Vishen-dart-coder?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Vishen-dart-coder&style=for-the-badge" />
   </a>
 </p>
 
