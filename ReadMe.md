@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer • Problem Solver • Builder</h3>
 
 <p align="center">
-  <img src="./assets/laptop.jpeg" alt="remember everyday is a new opportunity"/>
+  <img src="./assets/laptop.jpg" alt="remember everyday is a new opportunity"/>
 </p>
 
 <p align="center">
