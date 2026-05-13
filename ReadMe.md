@@ -1,92 +1,127 @@
-# 👋 Hey, I’m Vishen
+# 🚀 Hi, I'm YOUR_NAME
+
+<h3 align="center">Full Stack Developer • Problem Solver • Builder</h3>
 
 <p align="center">
-  <img src="./assets/opportunity.png" alt="remember everyday is a new opportunity" width="600"/>
+  <img src="./assets/opportunity.png" width="700" alt="remember everyday is a new opportunity"/>
 </p>
 
-<h3 align="center">
-  Building things, breaking things, learning fast.
-</h3>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-```txt
-Developer focused on creating useful, scalable, and clean software.
-Always learning.
-Always improving.
+```javascript
+const developer = {
+    name: "Vishen Sharma",
+    location: "Mumbai, IN",
+    role: "Full Stack Engineer",
+    languages: ["JavaScript", "TypeScript", "Python", "Go"],
+    technologies: {
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Express", "FastAPI"],
+        database: ["PostgreSQL", "MongoDB"],
+        devops: ["Docker", "Linux", "GitHub Actions"]
+    },
+    currentFocus: "Building scalable apps and useful services",
+    mindset: "remember everyday is a new opportunity"
+};
 ```
 
-- 🔭 Currently working on: **Your Current Project**
-- 🌱 Learning: **Your Tech Stack / Interests**
-- ⚡ Main stack: **TypeScript, Node.js, React, Go, Python**  
-- 🧠 Interested in: **AI, systems, automation, open source**
-- 🎯 Goal: Build products that actually matter
+* 🔭 Currently building **awesome projects**
+* 🌱 Learning **system design, AI, cloud infrastructure**
+* ⚡ I enjoy creating products that are actually useful
+* 🎯 Goal: Build clean, scalable, impactful software
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go)
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,angular,bash" />
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
-### Backend & DevOps
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,angular,bun,dart" />
 
----
+### Backend & Database
 
-## 📌 Featured Projects
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase,sqlite,ts" />
 
-### 🔹 Project One
-Short description of what it does and why it matters.
+### Tools & DevOps
 
-### 🔹 Project Two
-Something interesting you built or are building.
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vercel,aws,wordpress,netlify" />
 
-### 🔹 Project Three
-Automation, AI, tooling, or anything cool.
+</div>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishen-dart-coder&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishen-dart-coder&layout=compact&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishen-dart-coder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishen-drt-coder&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishen-dart-coder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect
+# 🧠 Current Focus
 
-<p align="left">
+```txt
+✔ Building modern web apps
+✔ Writing cleaner backend architecture
+✔ Learning more about AI systems
+✔ Open source contributions
+✔ Performance optimization
+```
+
+---
+
+# 🏆 Featured Projects
+
+<div align="center">
+
+| Project              | Description                  | Tech            |
+| ------------------ - | ---------------------------- | --------------- |
+| 🚀 CareerFlow-Ai    | Cool platform or application | React, Node.js  |
+| ⚡ Jarvis_Python    | Automation or AI tool        | Python, FastAPI |
+| 🔥 NemisisUI        | Scalable backend system      | Go, PostgreSQL  |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/Vishen-dart-coder">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
   <a href="https://linkedin.com/in/vishen-sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="mailto:iamvishensharma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
+  <a href="mailto:iamvishensharma@gmail.com.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"remember everyday is a new opportunity"</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:2563eb" />
 </p>
