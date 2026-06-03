@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Vishen-dart-coder">
     <img src="https://img.shields.io/github/followers/Vishen-dart-coder?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Vishen-dart-coder">
     <img src="https://komarev.com/ghpvc/?username=Vishen-dart-coder&style=for-the-badge" />
   </a>
 </p>
