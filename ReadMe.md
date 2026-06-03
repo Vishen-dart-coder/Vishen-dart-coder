@@ -105,7 +105,55 @@ const developer = {
 </div>
 
 ---
+# Here Are Some Certifications
 
+<p align="center">
+  <img src="./assets/GCP CERT.png"/>
+</p>
+
+
+<p align="center">
+  <img src="./assets/AWS Cloud Practitioner CERT.png"/>
+</p>
+
+
+<p align="center">
+  <img src="./assets/AWS DevelopercCERT.png"/>
+</p>
+
+
+<p align="center">
+  <img src="./assets/AWS Solutions Architect Cert.png"/>
+</p>
+
+
+<p align="center">
+  <img src="./assets/Azure ai engineer.png"/>
+</p>
+
+
+<p align="center">
+  <img src="./assets/CERT1.png"/>
+</p>
+
+<p align="center">
+  <img src="./assets/CERT2.png"/>
+</p>
+
+<p align="center">
+  <img src="./assets/CERT3.png"/>
+</p>
+
+<p align="center">
+  <img src="./assets/CERT4.png"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Kubernetes CERT.png"/>
+</p>
+
+
+---
 # 🌐 Connect With Me
 
 <p align="center">
