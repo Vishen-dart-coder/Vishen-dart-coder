@@ -67,19 +67,6 @@ const developer = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishen-dart-coder&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishen-dart-coder&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishen-dart-coder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🧠 Current Focus
 
 ```txt
