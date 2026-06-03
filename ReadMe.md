@@ -153,6 +153,9 @@ const developer = {
 </p>
 
 
+<img src="./assets/ACFrOgD4EF7QG3YRjJEN62hemcd_JMEjvrse0gG3iXj3-RE0VKEiO5jZG36OKiwMY9zm3VLdGlGHPOO-SecQJcag5LEuw-bWFq-eiPdQoHhDuzUm9H9kIV9QtMMGjwku6J4_T0Hk2ctX3wxfiuhW.pdf" width="500" alt="PDF Preview">
+
+
 ---
 # 🌐 Connect With Me
 
