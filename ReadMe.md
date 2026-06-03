@@ -133,19 +133,19 @@ const developer = {
 
 
 <p align="center">
-  <img src="./assets/CERT1.png"/>
+  <img src="./assets/CERT1.jpg"/>
 </p>
 
 <p align="center">
-  <img src="./assets/CERT2.png"/>
+  <img src="./assets/CERT2.jpg"/>
 </p>
 
 <p align="center">
-  <img src="./assets/CERT3.png"/>
+  <img src="./assets/CERT3.jpg"/>
 </p>
 
 <p align="center">
-  <img src="./assets/CERT4.png"/>
+  <img src="./assets/CERT4.jpg"/>
 </p>
 
 <p align="center">
